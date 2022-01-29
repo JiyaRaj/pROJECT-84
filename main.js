@@ -77,7 +77,7 @@ function numberkey()
 	
 function arrowkey()
 {
-	img_image="Arrpkey.png";
+	img_image="Arrkey.png";
 add();
 }
 function specialkey()
